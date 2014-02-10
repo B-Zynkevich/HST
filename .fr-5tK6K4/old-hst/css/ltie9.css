@@ -1,0 +1,8 @@
+*+html .top_three .slide h2 {
+	margin-top:-14px;
+}
+
+*+html .top_three .switcher li {
+	display:inline;
+	zoom:1;
+}
